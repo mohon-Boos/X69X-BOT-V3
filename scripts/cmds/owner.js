@@ -15,7 +15,7 @@ module.exports = {
     this.sentThreads.set(threadID, true);
     
     const ownerInfo = {
-      name: "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐳𝐚𝐝",
+      name: "⎯⎯꯭̎𝆺𝅥𝐌𝐎𝐇𝐎𝐍𓆪꯭)꯭⟶᯦꯭",
       age: "𝟏𝟖",
       from: "𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 🇧🇩",
       address: "𝐂𝐡𝐢𝐭𝐭𝐚𝐠𝐨𝐧𝐠",
